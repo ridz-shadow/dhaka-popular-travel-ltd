@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Frontend Developer Challenge - README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Welcome to my submission for the frontend developer challenge as part of the recruitment process for Dhaka Popular Travel Ltd. 
 
-## Available Scripts
+## Task Overview
+The task provided by Dhaka Popular Travel Ltd involved creating a frontend application according to the specifications outlined in the GitHub repository [here](https://github.com/PositiveZahid/dpt-circular3-frontend-developer).
 
-In the project directory, you can run:
+## Approach
+In tackling this challenge, I focused on using React.js for building the frontend components and Tailwind CSS for styling.
 
-### `npm start`
+## Technologies Used
+- React.js
+- Tailwind CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Time Taken
+This task took approximately 1 hour 40 minutes, give or take 5 minutes, to complete.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Running the Application
 
-### `npm test`
+To run the application, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository using the following command:
 
-### `npm run build`
+```bash
+git clone https://github.com/ridz-shadow/dhaka-popular-travel-ltd.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Navigate to the project directory in your terminal.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Install dependencies by running the command:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm install
+```
 
-### `npm run eject`
+4. Start the development server by running:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The development version of the application will be served locally, usually at `http://localhost:3000`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To run the application in a production environment, skip the step 4 and follow these additional steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Build the production-ready bundle by running:
 
-## Learn More
+```bash
+npm run build
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Install serve globally by running:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install -g serve
+```
 
-### Code Splitting
+6. Serve the built files using serve:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+serve -s build
+```
 
-### Analyzing the Bundle Size
+The application will be served in production mode, usually at `http://localhost:3000`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+If you encounter any issues or have questions, feel free to reach out to me at `+8801787026949` or via email at `ridz@shadow.com.bd` for assistance.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Sample Works
 
-### Advanced Configuration
+I'm accustomed to working with Google Cloud Source Repositories, which are completely private. Unfortunately, I can't share the repositories at the moment. However, here are links to two sample works I've done previously:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. BDCricTime: [Website Link](https://www.bdcrictime.com)
+2. Recent Work - Eimattro: [Website Link](https://admin.eimattro.com) (Still under development)
 
-### Deployment
+## Conclusion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+I am confident that my submission reflects my proficiency in React.js and Tailwind CSS, as well as my ability to deliver high-quality frontend solutions.
 
-### `npm run build` fails to minify
+Sincerely,  
+Md Nur Mohammad
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
